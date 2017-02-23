@@ -1,0 +1,133 @@
+Dependencies for Project 'stm32', Target 'stm': (DO NOT MODIFY !)
+F (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.c)(0x4C0C587E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\core_cm3.o --omf_browse .\obj\core_cm3.crf --depend .\obj\core_cm3.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.c)(0x4D783CB0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+F (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\startup\arm\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include--pd "__UVISION_VERSION SETA 521"--list .\list\startup_stm32f10x_hd.lst --xref -o .\obj\startup_stm32f10x_hd.o --depend .\obj\startup_stm32f10x_hd.d)
+F (.\usr\src\stm32f10x_it.c)(0x4D99A59E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\stm32f10x_it.o --omf_browse .\obj\stm32f10x_it.crf --depend .\obj\stm32f10x_it.d)
+I (.\usr\inc\stm32f10x_it.h)(0x4D99A59E)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+F (.\usr\src\main.c)(0x58AE5194)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (.\usr\inc\includes.h)(0x5864ABAE)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\usr\inc\led.h)(0x56D00D3C)
+I (.\usr\inc\beep.h)(0x56CD0FB8)
+I (.\usr\inc\key.h)(0x56D00D54)
+I (.\usr\inc\usart1.h)(0x56D54F9C)
+I (.\usr\inc\usart2.h)(0x56D00D48)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\usr\inc\delay.h)(0x56D00D3C)
+I (.\usr\inc\lcd.h)(0x58AE511E)
+F (.\usr\src\led.c)(0x56D00D3C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\led.o --omf_browse .\obj\led.crf --depend .\obj\led.d)
+I (.\usr\inc\includes.h)(0x5864ABAE)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\usr\inc\led.h)(0x56D00D3C)
+I (.\usr\inc\beep.h)(0x56CD0FB8)
+I (.\usr\inc\key.h)(0x56D00D54)
+I (.\usr\inc\usart1.h)(0x56D54F9C)
+I (.\usr\inc\usart2.h)(0x56D00D48)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\usr\inc\delay.h)(0x56D00D3C)
+I (.\usr\inc\lcd.h)(0x58AE511E)
+F (.\usr\src\beep.c)(0x56D00D3C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\beep.o --omf_browse .\obj\beep.crf --depend .\obj\beep.d)
+I (.\usr\inc\includes.h)(0x5864ABAE)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\usr\inc\led.h)(0x56D00D3C)
+I (.\usr\inc\beep.h)(0x56CD0FB8)
+I (.\usr\inc\key.h)(0x56D00D54)
+I (.\usr\inc\usart1.h)(0x56D54F9C)
+I (.\usr\inc\usart2.h)(0x56D00D48)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\usr\inc\delay.h)(0x56D00D3C)
+I (.\usr\inc\lcd.h)(0x58AE511E)
+F (.\usr\src\key.c)(0x56D00D72)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\key.o --omf_browse .\obj\key.crf --depend .\obj\key.d)
+I (.\usr\inc\includes.h)(0x5864ABAE)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\usr\inc\led.h)(0x56D00D3C)
+I (.\usr\inc\beep.h)(0x56CD0FB8)
+I (.\usr\inc\key.h)(0x56D00D54)
+I (.\usr\inc\usart1.h)(0x56D54F9C)
+I (.\usr\inc\usart2.h)(0x56D00D48)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\usr\inc\delay.h)(0x56D00D3C)
+I (.\usr\inc\lcd.h)(0x58AE511E)
+F (.\usr\src\usart1.c)(0x56D551F4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\usart1.o --omf_browse .\obj\usart1.crf --depend .\obj\usart1.d)
+I (.\usr\inc\includes.h)(0x5864ABAE)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\usr\inc\led.h)(0x56D00D3C)
+I (.\usr\inc\beep.h)(0x56CD0FB8)
+I (.\usr\inc\key.h)(0x56D00D54)
+I (.\usr\inc\usart1.h)(0x56D54F9C)
+I (.\usr\inc\usart2.h)(0x56D00D48)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\usr\inc\delay.h)(0x56D00D3C)
+I (.\usr\inc\lcd.h)(0x58AE511E)
+F (.\usr\src\usart2.c)(0x56CFC45E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\usart2.o --omf_browse .\obj\usart2.crf --depend .\obj\usart2.d)
+I (.\usr\inc\includes.h)(0x5864ABAE)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\usr\inc\led.h)(0x56D00D3C)
+I (.\usr\inc\beep.h)(0x56CD0FB8)
+I (.\usr\inc\key.h)(0x56D00D54)
+I (.\usr\inc\usart1.h)(0x56D54F9C)
+I (.\usr\inc\usart2.h)(0x56D00D48)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\usr\inc\delay.h)(0x56D00D3C)
+I (.\usr\inc\lcd.h)(0x58AE511E)
+F (.\usr\src\delay.c)(0x56D00ED2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\delay.o --omf_browse .\obj\delay.crf --depend .\obj\delay.d)
+I (.\usr\inc\includes.h)(0x5864ABAE)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\usr\inc\led.h)(0x56D00D3C)
+I (.\usr\inc\beep.h)(0x56CD0FB8)
+I (.\usr\inc\key.h)(0x56D00D54)
+I (.\usr\inc\usart1.h)(0x56D54F9C)
+I (.\usr\inc\usart2.h)(0x56D00D48)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\usr\inc\delay.h)(0x56D00D3C)
+I (.\usr\inc\lcd.h)(0x58AE511E)
+F (.\usr\src\lcd.c)(0x58647EE2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\lcd.o --omf_browse .\obj\lcd.crf --depend .\obj\lcd.d)
+I (.\usr\inc\includes.h)(0x5864ABAE)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\usr\inc\led.h)(0x56D00D3C)
+I (.\usr\inc\beep.h)(0x56CD0FB8)
+I (.\usr\inc\key.h)(0x56D00D54)
+I (.\usr\inc\usart1.h)(0x56D54F9C)
+I (.\usr\inc\usart2.h)(0x56D00D48)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E3E26)
+I (.\usr\inc\delay.h)(0x56D00D3C)
+I (.\usr\inc\lcd.h)(0x58AE511E)
+F (.\usr\src\pic.c)(0x5864B44C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\pic.o --omf_browse .\obj\pic.crf --depend .\obj\pic.d)
+F (.\usr\src\pic1.c)(0x5864BA68)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\pic1.o --omf_browse .\obj\pic1.crf --depend .\obj\pic1.d)
+F (.\usr\src\pic2.c)(0x5864B236)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\pic2.o --omf_browse .\obj\pic2.crf --depend .\obj\pic2.d)
+F (.\usr\src\flag.c)(0x58AE4A2D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\flag.o --omf_browse .\obj\flag.crf --depend .\obj\flag.d)
+F (.\usr\src\guohui.c)(0x58AE4E7A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\guohui.o --omf_browse .\obj\guohui.crf --depend .\obj\guohui.d)
+F (.\usr\src\lol.c)(0x58AE5089)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\usr\inc -I .\Libraries\CMSIS\CM3\CoreSupport -I .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x-IC:\Users\Administrator\Desktop\Ç¶ÈëÊ½ÊµÑµ\day4\LCDºº×Ö¡¢Í¼Æ¬\LCDºº×Ö¡¢Í¼Æ¬\RTE-IC:\Keil_v5\ARM\CMSIS\Include-IDevice\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD-o .\obj\lol.o --omf_browse .\obj\lol.crf --depend .\obj\lol.d)

@@ -1,0 +1,14 @@
+.\obj\lcd.o: usr\src\lcd.c
+.\obj\lcd.o: .\usr\inc\includes.h
+.\obj\lcd.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\lcd.o: .\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lcd.o: .\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\lcd.o: .\usr\inc\led.h
+.\obj\lcd.o: .\usr\inc\beep.h
+.\obj\lcd.o: .\usr\inc\key.h
+.\obj\lcd.o: .\usr\inc\usart1.h
+.\obj\lcd.o: .\usr\inc\usart2.h
+.\obj\lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\lcd.o: .\usr\inc\delay.h
+.\obj\lcd.o: .\usr\inc\lcd.h
